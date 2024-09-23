@@ -14,9 +14,11 @@
 <br/>
 4. Verify on port `3000` and test in tools like Postman:
 <br/>
+
 POST request:`localhost:3000/find-pairs`
 <br/>
-`localhost:3000/`
+GET request`localhost:3000/`
+<br/>
 
 5. Run test cases:
 <br/>
