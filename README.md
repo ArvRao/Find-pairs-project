@@ -17,3 +17,8 @@
 POST request:`localhost:3000/find-pairs`
 <br/>
 `localhost:3000/`
+
+5. Run test cases:
+<br/>
+
+`go test -v`
